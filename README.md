@@ -39,13 +39,13 @@ I have included links on this website for your use and reference. I are not resp
 
 ## Security
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
 
 
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on my website.
+## Changes To This Privacy PolicyThis Privacy Policy is effective as of May 26, 2025 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my website.
 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+For any questions or concerns regarding the privacy policy, please send me an email to kathleen@droverapp.org.
